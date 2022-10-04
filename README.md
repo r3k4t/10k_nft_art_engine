@@ -19,7 +19,7 @@ node metadata1.js
 "description":"An image in the NFT collection",
 "image":"https://nsugenesis.com/nfts/1.png"
 }
-``
+```
 
 node metadata2.js
 
