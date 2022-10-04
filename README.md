@@ -3,15 +3,15 @@
 
 <h3>Getting Started</h3>
 
-npm install
++npm install
 
 <h3>Let's generate 10k nfts</h3>
 
-node index.js
++node index.js
 
 <h3>Metadata Style</h3>
 
-node metadata1.js
++node metadata1.js
 
 ```
 {
@@ -21,7 +21,7 @@ node metadata1.js
 }
 ```
 
-node metadata2.js
++node metadata2.js
 
 ```
 {
@@ -32,7 +32,7 @@ node metadata2.js
 
 ```
 
-node metadata3.js
++node metadata3.js
 
 ```
 {
