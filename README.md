@@ -7,7 +7,7 @@
 
 <h3>Let's generate 10k nfts</h3>
 
-+node index.js
++ node index.js
 
 <h3>Metadata Style</h3>
 
