@@ -25,6 +25,15 @@
 }
 ```
 
++ Result:
+
+![Screenshot (8)](https://user-images.githubusercontent.com/69615463/194100608-8d9ea492-3c13-413a-8b78-857870ade5a0.png)
+
+Next
+
+![Screenshot (7)](https://user-images.githubusercontent.com/69615463/194100635-4d427871-3bd5-4b13-9aba-2a6706707a45.png)
+
+
 + node metadata2.js
 
 ```
