@@ -1,6 +1,6 @@
 # 10K NFT ART ENGINE
 (It is my scientology.) 
-arkom kaj kew karo jonno korea ami kortese amader vai ra jane boro It company(Tech Giant) detea pare.Ami chai amar dese boro IT company hok.tai ami agrohar sathea kortease.
+arkom kaj kew karo jonno korea na ami kortese amader vai ra jane boro It company(Tech Giant) detea pare.Ami chai amar dese boro IT company hok.tai ami agrohar sathea kortease.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/69615463/193983980-ec751d28-0989-4daf-84c9-3c38e2270b06.png)
 
