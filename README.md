@@ -4,7 +4,7 @@ arkom kaj kew karo jonno korea ami kortese amader vai ra jane boro It company(Te
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/69615463/193983980-ec751d28-0989-4daf-84c9-3c38e2270b06.png)
 
-<h7>Author:Rahat Khan Tusar(RKT)</h7>
+<h6>Author:Rahat Khan Tusar(RKT)</h6>
 
 
 <h3>Getting Started</h3>
