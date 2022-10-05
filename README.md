@@ -20,7 +20,6 @@
 
 ```
 {
-"name":"#1",
 "description":"An image in the NFT collection",
 "image":"https://nsugenesis.com/nfts/1.png"
 }
